@@ -1,6 +1,6 @@
 # My 100 Days of Python Projects Challenge
 
-This repository documents my 100-day journey of building a new Python project every day.
+This repository documents my 100-day journey of building a new Python Learning and projects in it every day.
 
 ## Project Log
 
